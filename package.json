@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Juan Pablo Quinteros - juampiq6@gmail.com",
   "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "node-static": "^0.7.11"
   }
